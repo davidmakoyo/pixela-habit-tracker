@@ -2,6 +2,8 @@
 
 Habit Tracker is a Python script that lets you create and manage your habit tracking data using the Pixela API. This script allows you to create an account, set up a graph, add data points, and edit/delete existing data points on the graph.
 
+![pixela screenshot](https://github.com/davidmakoyo/pixela-habit-tracker/assets/110312975/70af4178-7dd3-4fe3-9ecc-65daf90d59b1)
+
 ## Getting Started
 
 1. Clone the repository to your local machine.
